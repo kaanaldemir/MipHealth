@@ -1,6 +1,6 @@
-<h2 align="center"><u>MipHealth</u></h2>
+<h2 align="center"><u>MipoHealth</u></h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaanaldemir/MipHealth/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" alt="MipHealth"/>
+  <img src="https://raw.githubusercontent.com/kaanaldemir/MipoHealth/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" alt="MipHealth"/>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ To install MipHealth, follow the steps below to clone the repository and compile
 
 1. **Clone the Repository**: Open a terminal or command prompt and run the following command to clone the MipHealth repository:
    ```bash
-   git clone https://github.com/yourusername/MipHealth.git
+   git clone https://github.com/yourusername/MipoHealth.git
 
 Contributions Contributions are welcome! Please fork the repository and submit pull requests.
 
