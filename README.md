@@ -34,7 +34,7 @@ To install MipHealth, follow the steps below to clone the repository and compile
 
 1. **Clone the Repository**: Open a terminal or command prompt and run the following command to clone the MipHealth repository:
    ```bash
-   git clone https://github.com/yourusername/MipoHealth.git
+   git clone https://github.com/kaanaldemir/MipoHealth.git
 
 Contributions Contributions are welcome! Please fork the repository and submit pull requests.
 
